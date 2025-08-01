@@ -2,12 +2,12 @@
 
 A simple sports facility booking/reservation app.
 
+This is the front-end implementation of my pet project. The back-end code is located [here](https://github.com/alven-da/facility-booking-api).
+
 This is created using the following stack:
 
 - React.js
 - Astroturf - CSS-in-JS styling
-- Google Calendar - For date and time slot booking
-- PayMongo - Payment gateway for reservation
 
 Environment variable to use as follows:
 
