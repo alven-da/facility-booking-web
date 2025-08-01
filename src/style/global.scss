@@ -1,0 +1,20 @@
+body {
+  height: 100%;
+}
+
+@media (max-width: 767px) {
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+    position: relative;
+    width: 100%;
+  }
+
+  .col {
+    display: table-cell;
+
+    width: 100%;
+  }
+}
