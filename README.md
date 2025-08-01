@@ -1,4 +1,4 @@
-# Sports Booking Web
+# Facility Booking Web
 
 A simple sports facility booking/reservation app.
 
